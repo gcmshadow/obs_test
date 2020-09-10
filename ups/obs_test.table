@@ -1,4 +1,3 @@
-setupRequired(daf_base)
 setupRequired(obs_base)
 setupRequired(obs_test_data)
 setupRequired(pipe_base)
